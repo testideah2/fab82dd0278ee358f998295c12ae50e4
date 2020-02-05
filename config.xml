@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.ctmobil.app"
         versionCode = "10"
-        version     = "1.3.0">
+        version     = "1.4.0">
 
     <name>ТЕСТ. СИТИМОБИЛ - Стань водителем</name>
 
@@ -47,10 +47,10 @@
         <icon src="res/android/icon/255002e179f2a0a0e94d35994f38ff6a.png" density="xxhdpi" />
         <icon src="res/android/icon/dab2e74240a6bdee4ff7954fe7d05ad7.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/30a9bdad4d0912d7e55fd4c7dc6143b0.png" density="port-hdpi"/>
-        <splash src="res/android/screen/3e976ad07753d84404a44ea36f7425ef.png" density="port-ldpi"/>
-        <splash src="res/android/screen/028cd79b28fee5c0191c267d50887d72.png" density="port-mdpi"/>
-        <splash src="res/android/screen/b7741862f8fcd406245a5e7ee97f3126.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/7ab02126d8d8fd220442f0326465bddc.png" density="port-hdpi"/>
+        <splash src="res/android/screen/e3f53da4eb6a150b8a77bbce73017a5d.png" density="port-ldpi"/>
+        <splash src="res/android/screen/25cf2718b0fa6944469ffaca8ff8714f.png" density="port-mdpi"/>
+        <splash src="res/android/screen/6902547aa6cf8c8758f6bf1e31e75e3d.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
